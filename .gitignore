@@ -1,0 +1,7 @@
+
+*.cache
+*.props
+*.json
+*.xml
+*.xml
+.DS_Store
