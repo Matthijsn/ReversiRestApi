@@ -1,0 +1,4 @@
+/Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/net48/ReversiRestApi.csprojAssemblyReference.cache
+/Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/net48/ReversiRestApi.exe.config
+/Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/net48/ReversiRestApi.AssemblyInfoInputs.cache
+/Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/net48/ReversiRestApi.AssemblyInfo.cs

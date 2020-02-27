@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{081E7AFE-138E-4063-8AA1-D9B231E19B34}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ReversiController.cs">
+    <Files>
+      <File FileName="Controllers/ReversiController.cs" Line="5" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReversiRestApi" expanded="True">
+            <Node name="ReversiRestApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ReversiController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ReversiRestApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
