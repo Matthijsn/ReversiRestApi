@@ -5,3 +5,5 @@
 *.xml
 *.xml
 .DS_Store
+*.cache
+bin/Release/.DS_Store

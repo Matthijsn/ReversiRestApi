@@ -182,3 +182,13 @@ C:/Users/Matthijs/source/repos/ReversiRestApi/ReversiRestApi/obj/Debug/netcoreap
 /Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/netcoreapp3.1/ReversiRestApi.csproj.CopyComplete
 /Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/netcoreapp3.1/ReversiRestApi.dll
 /Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/netcoreapp3.1/ReversiRestApi.pdb
+/Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/bin/Debug/netcoreapp3.1/ReversiRestApi.Views.dll
+/Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/bin/Debug/netcoreapp3.1/ReversiRestApi.Views.pdb
+/Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/netcoreapp3.1/ReversiRestApi.RazorAssemblyInfo.cache
+/Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/netcoreapp3.1/ReversiRestApi.RazorAssemblyInfo.cs
+/Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/netcoreapp3.1/ReversiRestApi.TagHelpers.input.cache
+/Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/netcoreapp3.1/ReversiRestApi.TagHelpers.output.cache
+/Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/netcoreapp3.1/ReversiRestApi.RazorCoreGenerate.cache
+/Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
+/Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/netcoreapp3.1/ReversiRestApi.RazorTargetAssemblyInfo.cs
+/Users/Matthijs/Downloads/ReversiRestApi/ReversiRestApi/obj/Debug/netcoreapp3.1/ReversiRestApi.Views.pdb
